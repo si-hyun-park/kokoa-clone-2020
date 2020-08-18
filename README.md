@@ -1,3 +1,3 @@
 # Kokoa clone 2020 practice
 
-css got su much better!
+HTML & CSS are so much fun
